@@ -1,0 +1,42 @@
+What does that cost,price
+What's the price of <Item>?,price
+How much is <item>?,price
+Cost of <Item>?,price
+What does <Item> cost?,price
+What do you want for <Item>?,price
+Much for <Item>,price
+Cost <Item>,price
+Price <Item>,price
+What do you want for <Item>?,price
+How many <item> are left?,balance
+Stock of <Item>?,balance
+Do you have <Item>?,balance
+Balance of <Item>?,balance
+Any <Item> left?,balance
+<Item> in stock?,balance
+Balance <Item>,balance
+Stock <Item>,balance
+Order <Amount> <item> please,order
+Order <Amount> of <Item> please,order
+Place order <Item> with amount <Amount>.,order
+Buy <Item> <Amount>.,order
+"Order <Item>, <Amount> of them.",order
+Buy <Amount> of <Item>.,order
+Purchase <Item>,order
+Purchase <Item> <Amount> of them,order
+Place order <Item>,order
+Buy <Item>,order
+Purchase #<Amount> <Item>,order
+Need help pleese,common
+Need help,common
+I need some info,common
+Will you help me?,common
+What else can you do?,common
+What do you do?,common
+What can you help me with?,common
+What can you do?,common
+What are you good at?,common
+Need help plz,common
+How can you help me,common
+Can you help me?,common
+How can you assist?,common
