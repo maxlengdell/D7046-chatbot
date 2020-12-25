@@ -8,6 +8,24 @@ Much for <Item>,price
 Cost <Item>,price
 Price <Item>,price
 What do you want for <Item>?,price
+What is price for <item>?,price
+How much for <item>?,price
+Check price for <item>?,price
+What is the cost for <item>?,price
+Could you tell me the price?,price
+What is charge for <item>?,price
+How much do you charge?,price
+Could I know the price?,price
+I want to know the price for <item>,price
+How much does pants cost?,price
+How much does this product cost?,price
+What will you charge me for these pants?,price
+What's the price on these?,price
+Cost,price
+Price of,price
+How much does this?,price
+How much for this?,price
+What will this cost?,price
 How many <item> are left?,balance
 Stock of <Item>?,balance
 Do you have <Item>?,balance
@@ -16,6 +34,15 @@ Any <Item> left?,balance
 <Item> in stock?,balance
 Balance <Item>,balance
 Stock <Item>,balance
+Are you out of <item>?,balance
+Amount of <item> left?,balance
+Are there any <item>?,balance
+Is <item> sold out?,balance
+Is any <item> left?,balance
+Number of <item>?,balance
+I want to know how many <item> you have,balance
+Is <item> in stock?,balance
+Have you run out of <item>?,balance
 Order <Amount> <item> please,order
 Order <Amount> of <Item> please,order
 Place order <Item> with amount <Amount>.,order
@@ -27,6 +54,18 @@ Purchase <Item> <Amount> of them,order
 Place order <Item>,order
 Buy <Item>,order
 Purchase #<Amount> <Item>,order
+I want to buy <item>,order
+I want <Amount> <item>,order
+Give me <amount> <item>,order
+Get me <item>,order
+Could I get <amount> <item>,order
+Send me <item>,order
+I want to order,order
+I need to purchase,order
+I need <item>,order
+Order 3 pants please,order
+Place order for pants,order
+Please give me <item>,order
 Need help pleese,common
 Need help,common
 I need some info,common
@@ -40,3 +79,14 @@ Need help plz,common
 How can you help me,common
 Can you help me?,common
 How can you assist?,common
+What is this?,common
+Who are you?,common
+Where can I buy?,common
+How to order things?,common
+Where am I?,common
+How do I use this?,common
+How can you help me?,common
+Where is the help?,common
+Are you the helper?,common
+How use this?,common
+What are you wearing?,common
