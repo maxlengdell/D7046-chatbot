@@ -1,31 +1,3 @@
-What does that cost,price
-What's the price of <Item>?,price
-How much is <item>?,price
-Cost of <Item>?,price
-What does <Item> cost?,price
-What do you want for <Item>?,price
-Much for <Item>,price
-Cost <Item>,price
-Price <Item>,price
-What do you want for <Item>?,price
-What is price for <item>?,price
-How much for <item>?,price
-Check price for <item>?,price
-What is the cost for <item>?,price
-Could you tell me the price?,price
-What is charge for <item>?,price
-How much do you charge?,price
-Could I know the price?,price
-I want to know the price for <item>,price
-How much does pants cost?,price
-How much does this product cost?,price
-What will you charge me for these pants?,price
-What's the price on these?,price
-Cost,price
-Price of,price
-How much does this?,price
-How much for this?,price
-What will this cost?,price
 How many <item> are left?,balance
 Stock of <Item>?,balance
 Do you have <Item>?,balance
@@ -43,29 +15,8 @@ Number of <item>?,balance
 I want to know how many <item> you have,balance
 Is <item> in stock?,balance
 Have you run out of <item>?,balance
-Order <Amount> <item> please,order
-Order <Amount> of <Item> please,order
-Place order <Item> with amount <Amount>.,order
-Buy <Item> <Amount>.,order
-"Order <Item>, <Amount> of them.",order
-Buy <Amount> of <Item>.,order
-Purchase <Item>,order
-Purchase <Item> <Amount> of them,order
-Place order <Item>,order
-Buy <Item>,order
-Purchase #<Amount> <Item>,order
-I want to buy <item>,order
-I want <Amount> <item>,order
-Give me <amount> <item>,order
-Get me <item>,order
-Could I get <amount> <item>,order
-Send me <item>,order
-I want to order,order
-I need to purchase,order
-I need <item>,order
-Order 3 pants please,order
-Place order for pants,order
-Please give me <item>,order
+how many <item> are in stock?,balance
+how many <item> are left in stock?,balance
 Need help pleese,common
 Need help,common
 I need some info,common
@@ -90,3 +41,78 @@ Where is the help?,common
 Are you the helper?,common
 How use this?,common
 What are you wearing?,common
+Order <Amount> <item> please,order
+Order <Amount> of <Item> please,order
+Place order <Item> with amount <Amount>.,order
+Buy <Item> <Amount>.,order
+"Order <Item>, <Amount> of them.",order
+Buy <Amount> of <Item>.,order
+Purchase <Item>,order
+Purchase <Item> <Amount> of them,order
+Place order <Item>,order
+Buy <Item>,order
+Purchase #<Amount> <Item>,order
+I want to buy <item>,order
+I want <Amount> <item>,order
+Give me <amount> <item>,order
+Get me <item>,order
+Could I get <amount> <item>,order
+Send me <item>,order
+I want to order,order
+I need to purchase,order
+I need <item>,order
+Order 3 <item> please,order
+Place order for <item>,order
+Can I order that please?,order
+Please give me <item>,order
+I want to buy two bicycles,order
+I need 10  chairs shipped to my backyard,order
+Send gasoline,order
+Could I get ammo?,order
+What does that cost,price
+What's the price of <Item>?,price
+How much is <item>?,price
+Cost of <Item>?,price
+What does <Item> cost?,price
+What do you want for <Item>?,price
+Much for <Item>,price
+Cost <Item>,price
+Price <Item>,price
+What do you want for <Item>?,price
+What is price for <item>?,price
+How much for <item>?,price
+Check price for <item>?,price
+What is the cost for <item>?,price
+Could you tell me the price?,price
+What is charge for <item>?,price
+How much do you charge?,price
+Could I know the price?,price
+I want to know the price for <item>,price
+How much does <item> cost?,price
+How much does this product cost?,price
+What will you charge me for these <item>?,price
+What's the price on these?,price
+Cost of,price
+Price of,price
+How much does this?,price
+How much for this?,price
+What will this cost?,price
+How many are left?,balance
+Stock of?,balance
+Do you have?,balance
+Balance of?,balance
+Any left?,balance
+in stock?,balance
+Balance  ,balance
+Stock  ,balance
+Are you out of  ?,balance
+Amount of   left?,balance
+Are there any  ?,balance
+Is   sold out?,balance
+Is any   left?,balance
+Number of  ?,balance
+I want to know how many   you have,balance
+Is   in stock?,balance
+Have you run out of  ?,balance
+how many   are in stock?,balance
+how many   are left in stock?,balance
