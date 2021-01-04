@@ -1,118 +1,237 @@
-How many <item> are left?,balance
-Stock of <Item>?,balance
-Do you have <Item>?,balance
-Balance of <Item>?,balance
+Order please,order
+Ship this item to me,order
+Can I order that please?,order
+Where is the help?,common
+Purchase <Item>,order
+How much for ?,price
+How use this?,common
+How many are left?,balance
+I want to purchase this thing,order
+How many of  <item>  are ready for shipping today?,balance
+Could you tell me the price?,price
+Get me a hamburger,order
+Why is  so expensive?,price
+Do this item in stock?,balance
+<item> is too expensive,price
+Place order for <item>,order
+Where can I buy?,common
+I need to purchase,order
+How to order things?,common
+I need 10  chairs shipped to my backyard,order
+Is   in stock?,balance
+I must have the pricest   on the market,price
+Is any   left?,balance
+How many mangos have you got?,balance
+Do you have quantity discount of <item>?,price
+Stock of?,balance
+"Order <Item>, <Amount> of them",order
+Let me know price,price
+I want to know the price for <item>,price
+Cost <Item>,price
+Place order ,order
+How much is ?,price
+What do you want for <Item>?,price
+Please give me ,order
 Any <Item> left?,balance
-<Item> in stock?,balance
-Balance <Item>,balance
-Stock <Item>,balance
 Are you out of <item>?,balance
-Amount of <item> left?,balance
-Are there any <item>?,balance
-Is <item> sold out?,balance
-Is any <item> left?,balance
-Number of <item>?,balance
-I want to know how many <item> you have,balance
-Is <item> in stock?,balance
+I need ,order
+Could I get 50% off on <item> please?,price
+I need 4 apples,order
+Cost of ?,price
+When is this years version of   in stock?,balance
+I want cost for ,price
+How many of   is in stock next month?,balance
+Tell me price for that,price
+Place order  with amount ,order
+can i order that,order
+How many of this have you got?,balance
+How can you help me,common
+Whats the cheapest <item> you have?,price
+how many   are left in stock?,balance
 Have you run out of <item>?,balance
-how many <item> are in stock?,balance
-how many <item> are left in stock?,balance
-Need help pleese,common
+I want to buy ,order
+I will take a pair of,order
+Do you have quantity discount of  ?,price
+When is    back in stock?,balance
+I want <Amount> <item>,order
+What does <Item> cost?,price
+Can you help me?,common
+Price ,price
+How much for <item>?,price
+Order 3 <item> please,order
+Why is  <item>  always out of stock?,balance
+What can you do?,common
+Can i order,order
+How many of <item> is in stock next month?,balance
+What do you want for ?,price
+Is this item in?,balance
+How much do you charge?,price
+Show me how much it costs,price
+Give me the cost for thing,price
+Give me this item,order
+What is charge for <item>?,price
+Is this specific thing i need in stock?,balance
+Any special offers on  ?,price
+I must have the pricest <item> on the market,price
+Purchase <Amount> <Item>,order
+how many   are in stock?,balance
+Could I get 50% off on   please?,price
+What is price for <item>?,price
+Is <item> in stock?,balance
+Purchase ,order
+Is   sold out?,balance
+Are you the helper?,common
+Cost of,price
 Need help,common
-I need some info,common
-Will you help me?,common
+What's the price of <Item>?,price
+I want to know how many   you have,balance
+How many of    are ready for shipping today?,balance
+Buy  of ,order
+Place order <Item> with amount <Amount>,order
+Get me 5 bananas,order
+Are there any <item>?,balance
+What's the price of ?,price
+What will you charge me for these <item>?,price
+What are you good at?,common
+Check price for ?,price
 What else can you do?,common
+How much for this?,price
+Do you have more than zero of this item?,balance
+Amount of <item> left?,balance
+I need price,price
+Please give me <item>,order
+Is this costly?,price
+How much for 5 horses?,price
+<item> is too cheap for me,price
+Is    in cold storage?,balance
+Is any <item> left?,balance
+Balance of <Item>?,balance
+How can you assist?,common
+What does that cost,price
+Get me ,order
+Is <item> sold out?,balance
+Need help plz,common
+Who are you?,common
+Buy <Item>,order
+Check price for <item>?,price
+Stock <Item>,balance
+Get me <item>,order
+Buy <Amount> of <Item>,order
+I want to order,order
+Are there any  ?,balance
+How much does this product cost?,price
+I need <item>,order
+Can i afford this?,price
+Can i order this,order
+How much does <item> cost?,price
+Do you have?,balance
+Send gasoline,order
+Buy ,order
+Amount of   left?,balance
+What's the price on these?,price
+Money for this thing?,price
+Cost of <Item>?,price
+Balance  ,balance
+What do you want for <Item>?,price
+What are you wearing?,common
+How many money?,price
+Give me <amount> <item>,order
+Can i order many of this item,order
+Order <Amount> <item> please,order
+Costly?,price
+in stock?,balance
+Much for this thing?,price
+Is there more of this thing?,balance
+Want to know price for this,price
+Cost ,price
+What is the cost for ?,price
+Are you out of  ?,balance
+How costly is this?,price
+When is  <item>  back in stock?,balance
+When is this years version of  <item> in stock?,balance
+Any special offers on <item>?,price
+Will you help me?,common
+Tell me how many of this you got,balance
+What will this cost?,price
+Send me,order
+Whats the priciest <item> you have?,price
+Why is <item> so expensive?,price
+want to know cost,price
+Have you got a lot of this thing?,balance
+Charge for this?,price
+I want ,order
+I buy this item,order
+What is price for ?,price
+Why is    always out of stock?,balance
+I want to buy two bicycles,order
+Number of <item>?,balance
+Any left?,balance
+Number of  ?,balance
+I want to buy a soul,order
+Buy 55 dogs,order
+Order of  please,order
+<Item> in stock?,balance
+I want to know how many <item> you have,balance
+Is  <item>  in cold storage?,balance
+Much money do i need for this?,price
+Whats the cheapest  you have?,price
+Whats the priciest   you have?,price
+how many <item> are left in stock?,balance
+Stock of <Item>?,balance
+  is too expensive,price
+Could I get,order
+How much is <item>?,price
+price is what?,price
+I want to know the price for ,price
+Could I know the price?,price
+Purchase  of them,order
+Price <Item>,price
+Purchase <Item> <Amount> of them,order
+Order place for thing,order
+Why is   so cheap?,price
+Purchase ,order
+Stock  ,balance
+Give me this item,order
+How much does  cost?,price
+In warehouse have this ?,balance
+  is too cheap for me,price
+Balance of?,balance
+how many <item> are in stock?,balance
 What do you do?,common
 What can you help me with?,common
-What can you do?,common
-What are you good at?,common
-Need help plz,common
-How can you help me,common
-Can you help me?,common
-How can you assist?,common
-What is this?,common
-Who are you?,common
-Where can I buy?,common
-How to order things?,common
-Where am I?,common
-How do I use this?,common
-How can you help me?,common
-Where is the help?,common
-Are you the helper?,common
-How use this?,common
-What are you wearing?,common
-Order <Amount> <item> please,order
+How is the price?,price
 Order <Amount> of <Item> please,order
-Place order <Item> with amount <Amount>.,order
-Buy <Item> <Amount>.,order
-"Order <Item>, <Amount> of them.",order
-Buy <Amount> of <Item>.,order
-Purchase <Item>,order
-Purchase <Item> <Amount> of them,order
-Place order <Item>,order
-Buy <Item>,order
-Purchase #<Amount> <Item>,order
-I want to buy <item>,order
-I want <Amount> <item>,order
-Give me <amount> <item>,order
-Get me <item>,order
-Could I get <amount> <item>,order
-Send me <item>,order
-I want to order,order
-I need to purchase,order
-I need <item>,order
-Order 3 <item> please,order
-Place order for <item>,order
-Can I order that please?,order
-Please give me <item>,order
-I want to buy two bicycles,order
-I need 10  chairs shipped to my backyard,order
-Send gasoline,order
-Could I get ammo?,order
-What does that cost,price
-What's the price of <Item>?,price
-How much is <item>?,price
-Cost of <Item>?,price
-What does <Item> cost?,price
-What do you want for <Item>?,price
 Much for <Item>,price
-Cost <Item>,price
-Price <Item>,price
-What do you want for <Item>?,price
-What is price for <item>?,price
-How much for <item>?,price
-Check price for <item>?,price
+Buy ,order
+How many <item> are left?,balance
+Is this thing present?,balance
+What do you want for ?,price
+Give me ,order
+Much for ,price
 What is the cost for <item>?,price
-Could you tell me the price?,price
-What is charge for <item>?,price
-How much do you charge?,price
-Could I know the price?,price
-I want to know the price for <item>,price
-How much does <item> cost?,price
-How much does this product cost?,price
-What will you charge me for these <item>?,price
-What's the price on these?,price
-Cost of,price
+Send me <item>,order
+What does  cost?,price
+What will you charge me for these ?,price
+I am getting this,order
+I need some info,common
+Order 3  please,order
+What is charge for ?,price
+Balance <Item>,balance
+Where am I?,common
+Could I get ammo?,order
 Price of,price
+I would like a thing,order
+Need help pleese,common
+How can you help me?,common
+Buy <Item> <Amount>,order
+Why is <item> so cheap?,price
 How much does this?,price
-How much for this?,price
-What will this cost?,price
-How many are left?,balance
-Stock of?,balance
-Do you have?,balance
-Balance of?,balance
-Any left?,balance
-in stock?,balance
-Balance  ,balance
-Stock  ,balance
-Are you out of  ?,balance
-Amount of   left?,balance
-Are there any  ?,balance
-Is   sold out?,balance
-Is any   left?,balance
-Number of  ?,balance
-I want to know how many   you have,balance
-Is   in stock?,balance
+Place order for,order
+Could I get <amount> <item>,order
+Place order <Item>,order
+What is this?,common
+How do I use this?,common
 Have you run out of  ?,balance
-how many   are in stock?,balance
-how many   are left in stock?,balance
+I want to buy <item>,order
+In warehouse have this <item>?,balance
+Do you have <Item>?,balance
